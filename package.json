@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-raid-toolkit-revamp": "^2.0.5",
+    "discord.js": "^12.5.3"
+  }
+}
