@@ -1,7 +1,6 @@
 # Trinity
 
-This is a raid script developed by $am and $wir
-
+This is a raid script developed by ...................Secret hehe
 Somes time cmd don't work 100 % (for Start Automoautomatically)
 
 write in the file bar write cmd and write node config.js
